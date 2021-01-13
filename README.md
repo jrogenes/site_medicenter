@@ -1,1 +1,1 @@
-Primeiro projeto de HTML e CSS, testando o aprencizado de flex.
+Primeiro projeto de HTML e CSS, testando o aprendizado de flexbox
