@@ -1,1 +1,5 @@
-Primeiro projeto de HTML e CSS, testando o aprendizado de flexbox
+Primeiro projeto de HTML5 e CSS3, colcando em prática o FlexBox.
+
+
+
+
